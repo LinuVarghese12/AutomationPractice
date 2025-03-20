@@ -46,6 +46,9 @@ public class LoginPage extends BasePage {
 	
 	@FindBy(xpath = "")
 	WebElement logOutConfirmButton;
+	
+	
+	String v= "djnkdxdxdxd";
 
 	WebDriverWait wait;
 
